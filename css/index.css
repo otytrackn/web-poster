@@ -10,14 +10,14 @@
   width: 620px;
   height: 276px;
   left: 358px;
-  top: -361px;
+  top: -3px;
 }
 .name {
-  position: absolute;
+  position: relative;
   width: 1440px;
   height: 1136px;
   left: 0px;
-  top: -31px;
+  top: -310px;
 }
 .r1 {
   position: absolute;
@@ -39,8 +39,8 @@
   position: absolute;
   width: 881px;
   height: 3227px;
-  left: 555px;
-  top: 1895px;
+  left: 571px;
+  top: 1925px;
   display: inline-block;
 }
 .star4 {
@@ -53,8 +53,8 @@
   position: relative;
   width: 623px;
   height: 623px;
-  left: -652px;
-  top: 709px;
+  left: -51px;
+  top: -912px;
   display: inline-block;
   animation: wiggle6 2.5s infinite;
 }
@@ -66,11 +66,11 @@
   animation: none;
 }
 .bowl2 {
-  position: absolute;
+  position: relative;
   width: 623px;
   height: 623px;
   left: 398px;
-  top: 709px;
+  top: -1746px;
   display: inline-block;
   animation: wiggle7 2.5s infinite;
 }
@@ -82,11 +82,11 @@
   animation: none;
 }
 .bowl3 {
-  position: absolute;
+  position: relative;
   width: 600px;
   height: 623px;
-  left: 841px;
-  top: 709px;
+  left: 250px;
+  top: -1746px;
   display: inline-block;
   animation: wiggle8 2.5s infinite;
 }
@@ -98,11 +98,11 @@
   animation: none;
 }
 .n1 {
-  position: absolute;
+  position: relative;
   width: 683px;
   height: 683px;
-  left: -50px;
-  top: 1164px;
+  left: -48px;
+  top: -1912px;
   display: inline-block;
   animation: wiggle9 2.5s infinite;
 }
@@ -114,11 +114,11 @@
   animation: none;
 }
 .n2 {
-  position: absolute;
+  position: relative;
   width: 683px;
   height: 640px;
   left: 375px;
-  top: 1176px;
+  top: -2669px;
   display: inline-block;
   animation: wiggle10 2.5s infinite;
 }
@@ -130,11 +130,11 @@
   animation: none;
 }
 .n3 {
-  position: absolute;
+  position: relative;
   width: 600px;
   height: 600px;
-  left: 840px;
-  top: 1182px;
+  left: 204px;
+  top: -2709px;
   display: inline-block;
   animation: wiggle11 2.5s infinite;
 }
@@ -157,8 +157,8 @@
   position: relative;
   width: 392px;
   height: 849px;
-  left: 7px;
-  top: 1238px;
+  left: -981px;
+  top: -2642px;
   display: inline-block;
   animation: wiggle 2.5s infinite;
 }
@@ -173,8 +173,8 @@
   position: relative;
   width: 400px;
   height: 400px;
-  left: -120px;
-  top: 1007px;
+  left: -702px;
+  top: -3356px;
   display: inline-block;
   animation: wiggle2 2.5s infinite;
 }
@@ -189,8 +189,8 @@
   position: relative;
   width: 400px;
   height: 400px;
-  left: -237px;
-  top: 1024px;
+  left: -449px;
+  top: -3813px;
   display: inline-block;
   animation: wiggle3 2.5s infinite;
 }
@@ -205,8 +205,8 @@
   position: relative;
   width: 400px;
   height: 400px;
-  left: 816px;
-  top: 295px;
+  left: 838px;
+  top: -4241px;
   display: inline-block;
   animation: wiggle4 2.5s infinite;
 }
@@ -221,8 +221,8 @@
   position: relative;
   width: 400px;
   height: 400px;
-  left: 635px;
-  top: 275px;
+  left: 657px;
+  top: -4270px;
   display: inline-block;
   animation: wiggle5 2.5s infinite;
 }
@@ -244,143 +244,144 @@
 .plk1 {
   position: relative;
   height: 764px;
-  left: -810px;
-  top: 1041px;
+  left: -2px;
+  top: -4511px;
   display: inline-block;
 }
 .plk2 {
   position: relative;
   height: 764px;
-  left: 986px;
-  top: 168px;
+  left: 555px;
+  top: -4547px;
   display: inline-block;
-}
-.lapsha {
-  position: relative;
-  left: 76px;
-  top: 96px;
-  z-index: 1;
-  display: inline-block;
-}
-.pan1 {
-  position: relative;
-  left: 736px;
-  top: -931px;
-  overflow: hidden;
-}
-.pan2 {
-  position: absolute;
-  width: 1219px;
-  height: 791px;
-  left: -279px;
-  top: 3904px;
-  overflow: hidden;
-}
-.ie1 {
-  position: absolute;
-  width: 494px;
-  height: 741px;
-  left: 1054px;
-  top: 3623px;
-}
-.ie2 {
-  position: absolute;
-  width: 494px;
-  height: 741px;
-  left: 70px;
-  top: 4266px;
-}
-.logo {
-  position: absolute;
-  width: 650px;
-  height: 650px;
-  left: 749px;
-  top: 4103px;
-  display: inline-block;
-  animation-name: rotation;
-  animation-duration: 15s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-}
-.logo2 {
-  position: absolute;
-  width: 995px;
-  height: 296px;
-  left: -58px;
-  top: 4746px;
-}
-/* text 1440 */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
-h1 {
-  font-family: 'Lato', sans-serif;
-}
-.text1 {
-  position: relative;
-  width: 1016px;
-  height: 104px;
-  left: 74px;
-  top: -4315px;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 80px;
-  line-height: 96px;
-  color: #FFCD00;
-  display: inline-block;
-}
-.kimchi {
-  position: relative;
-  width: 1016px;
-  left: 142px;
-  top: -4018px;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 80px;
-  line-height: 96px;
-  color: #FFCD00;
-  display: inline-block;
-}
-.ramen {
-  position: absolute;
-  width: 339px;
-  height: 104px;
-  left: 609px;
-  top: 1162px;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 80px;
-  line-height: 96px;
-  color: #FFCD00;
-}
-.miso {
-  position: absolute;
-  width: 214px;
-  height: 104px;
-  left: 1110px;
-  top: 1158px;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 80px;
-  line-height: 96px;
-  color: #FFCD00;
-}
-.soba {
-  position: relative;
-  width: 214px;
-  height: 104px;
-  left: -839px;
-  top: -3623px;
-  font-family: 'Lato', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 80px;
-  line-height: 96px;
-  color: #FFCD00;
-  display: inline-block;
-}
+  }
+  .lapsha {
+    position: relative;
+    left: 76px;
+    top: -4662px;
+    z-index: 1;
+    display: inline-block;
+  }
+  .pan1 {
+    position: relative;
+    left: 736px;
+    top: -5686px;
+    overflow: hidden;
+  }
+  .pan2 {
+    position: relative;
+    width: 1219px;
+    height: 791px;
+    left: -279px;
+    top: -5814px;
+    overflow: hidden;
+  }
+  .ie1 {
+    position: absolute;
+    width: 494px;
+    height: 741px;
+    left: 1054px;
+    top: 3623px;
+  }
+  .ie2 {
+    position: absolute;
+    width: 494px;
+    height: 741px;
+    left: 70px;
+    top: 4266px;
+  }
+  .logo {
+    position: absolute;
+    width: 650px;
+    height: 650px;
+    left: 749px;
+    top: 4103px;
+    display: inline-block;
+    animation-name: rotation;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+  }
+  .logo2 {
+    position: absolute;
+    width: 995px;
+    height: 296px;
+    left: -58px;
+    top: 4746px;
+  }
+  /* text 1440 */
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+  h1 {
+    font-family: 'Lato', sans-serif;
+  }
+  .text1 {
+    position: relative;
+    width: 1016px;
+    height: 104px;
+    left: 74px;
+    top: -770px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFCD00;
+    display: inline-block;
+  }
+  .kimchi {
+    position: relative;
+    width: 1016px;
+    left: 142px;
+    top: -1094px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFCD00;
+    display: inline-block;
+  }
+  .ramen {
+    position: absolute;
+    width: 339px;
+    height: 104px;
+    left: 609px;
+    top: 1162px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFCD00;
+  }
+  .miso {
+    position: absolute;
+    width: 214px;
+    height: 104px;
+    left: 1110px;
+    top: 1158px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFCD00;
+  }
+  .soba {
+    position: relative;
+    width: 214px;
+    height: 104px;
+    left: -516px;
+    top: -2087px;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 96px;
+    color: #FFCD00;
+    display: inline-block;
+  }
+
 .somen {
   position: absolute;
   width: 298px;
@@ -412,7 +413,7 @@ h1 {
   width: 1016px;
   height: 104px;
   left: 74px;
-  top: -3441px;
+  top: -3275px;
   font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -425,8 +426,8 @@ h1 {
   position: relative;
   width: 1016px;
   height: 104px;
-  left: 96px;
-  top: -3233px;
+  left: 140px;
+  top: -3353px;
   font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -439,8 +440,8 @@ h1 {
   position: relative;
   width: 1016px;
   height: 104px;
-  left: 424px;
-  top: -3420px;
+  left: 460px;
+  top: -3842px;
   font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -494,7 +495,7 @@ h1 {
   width: 1016px;
   height: 104px;
   left: 74px;
-  top: -3229px;
+  top: -4067px;
   font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -516,6 +517,7 @@ h1 {
   line-height: 58px;
   color: #FFCD00;
 }
+
 .strk1 {
   position: absolute;
   width: 1536px;
@@ -543,8 +545,8 @@ h1 {
 .ierogl1 {
   position: absolute;
   left: 1027px;
-  top: 3515px;
-  font-family: 'Lato';
+  top: 3542px;
+  font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 200px;
@@ -556,7 +558,7 @@ h1 {
   position: absolute;
   left: 35px;
   top: 4187px;
-  font-family: 'Lato';
+  font-family: 'Lato', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 200px;
