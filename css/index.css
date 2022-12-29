@@ -19,22 +19,6 @@
   left: 0vw;
   top: -21.53vw;
 }
-.r1 {
-  position: absolute;
-  width: 100vw;
-  height: 13.056vw;
-  left: 0vw;
-  top: 32.083vw;
-  display: inline-block;
-  z-index: 1;
-}
-.star2 {
-  position: absolute;
-  width: 37.50vw;
-  height: 21.597vw;
-  left: 60.694vw;
-  top: 40.417vw;
-}
 .star3 {
   position: relative;
   width: 61.181vw;
@@ -82,6 +66,15 @@
 .wiggle7:hover {
   animation: none;
 }
+.r1 {
+  position: absolute;
+  width: 100vw;
+  height: 13.056vw;
+  left: 0vw;
+  top: 32.083vw;
+  display: inline-block;
+  z-index: 1;
+}
 .bowl3 {
   position: relative;
   width: 43.264vw;
@@ -97,6 +90,13 @@
 }
 .wiggle8:hover {
   animation: none;
+}
+.star2 {
+  position: absolute;
+  width: 37.50vw;
+  height: 21.597vw;
+  left: 60.694vw;
+  top: 40.417vw;
 }
 .n1 {
   position: relative;
