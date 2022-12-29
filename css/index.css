@@ -20,13 +20,12 @@
   top: -21.53vw;
 }
 .star3 {
-  position: relative;
-  width: 61.181vw;
-  height: 224.097vw;
-  left: 38.653vw;
-  top: -689.319vw;
-  overflow: hidden;
-  box-sizing: border-box;
+  position: absolute;
+  width: 881px;
+  height: 3227px;
+  left: 571px;
+  top: 1925px;
+  display: inline-block;
 }
 .star4 {
   position: absolute;
@@ -553,11 +552,8 @@ h1 {
   color: #FFCD00;
   z-index: 1;
   margin-right: 0;
-
   display: inline-block;
   box-sizing: border-box;
-  transition: all 3s ease-in-out;
-  animation: ieroglif 2.5s infinite;
 }
 /* animation 1440 */
 @keyframes rotation {
@@ -635,13 +631,6 @@ h1 {
 100% { transform: rotate(0deg); }
 }
 @keyframes wiggle11 {
-  0% { transform: rotate(0deg); }
- 80% { transform: rotate(0deg); }
- 85% { transform: rotate(3deg); }
- 95% { transform: rotate(-3deg); }
-100% { transform: rotate(0deg); }
-}
-@keyframes ieroglif {
   0% { transform: rotate(0deg); }
  80% { transform: rotate(0deg); }
  85% { transform: rotate(3deg); }
